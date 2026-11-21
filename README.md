@@ -39,7 +39,7 @@ Y si eres tú quien programa con IA, una skill es la forma de que la herramienta
 
 1. Copia [`SKILL.md`](SKILL.md) y cámbiale el nombre y la descripción del encabezado.
 2. Rellena cada sección con lo **tuyo**; borra lo que no aplique.
-3. Lo más valioso es la sección **«Errores que ya me mordieron»**: ahí va tu experiencia real, un fallo por línea.
+3. Lo más valioso es la sección **"Errores que ya me mordieron"**: ahí va tu experiencia real, un fallo por línea.
 4. Colócala en la carpeta de skills de tu herramienta de desarrollo, dentro de una carpeta con el mismo nombre que pusiste.
 
 ## Qué incluye
@@ -53,7 +53,7 @@ Y si eres tú quien programa con IA, una skill es la forma de que la herramienta
 
 ## Un consejo
 
-Escribe la skill como si se la explicaras a alguien inteligente que no estuvo en tu proyecto. Sé concreto: «al revisar un PR de backend» funciona; «para código» no.
+Escribe la skill como si se la explicaras a alguien inteligente que no estuvo en tu proyecto. Sé concreto: "al revisar un PR de backend" funciona; "para código" no.
 
 ## Licencia y autoría
 
